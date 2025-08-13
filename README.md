@@ -22,7 +22,7 @@ Email Me 👉 ✉️ suryansh.gupta9988@gmail.com For Collaboration/Project or A
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=suryanshgupta1481&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️  Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Snake Game Repo View -->
